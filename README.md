@@ -1,4 +1,4 @@
-# WebRTC Calls App
+# QuickChat
 
 This project is a WebRTC-based application that facilitates quick video calls using the Cloudflare Calls API. It includes features such as phone number sign-up with OTP verification via Twilio, chat functionality, screen sharing, reactions during calls, and integration with Google Calendar for scheduling video calls.
 
